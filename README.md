@@ -8,8 +8,8 @@ Java 와 Oracle DB를 연동하여 임직원의 인적사항 관리하는 프로
 - 2022-09-22 ~ 2022-09-28 (7일)
 
 ## 개발 환경
-- 'JavaSE-17'
-- 'JDK 18.0.2'
+- `JavaSE-17`
+- `JDK 18.0.2`
 - **IDE** : Eclipse 4.24.0
 - **Database** : Oracle DB(21c xe)
 
