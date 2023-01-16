@@ -1,24 +1,22 @@
 # team_projects_01
+Java + Oracle DB 인사관리 프로그램
 
-인사과리 프로그램
+## 프로젝트 소개
+Java 와 Oracle DB를 연동하여 임직원의 인적사항 관리하는 프로그램
 
+## 개발 기간
+- 2022-09-22 ~ 2022-09-28 (7일)
 
-![image](https://user-images.githubusercontent.com/77003178/212582216-f12a938e-5bc5-4568-abcd-5c38d42818b5.png)
+## 개발 환경
+- 'JavaSE-17'
+- 'JDK 18.0.2'
+- **IDE** : Eclipse 4.24.0
+- **Database** : Oracle DB(21c xe)
 
-
-순서 없는 목록은 다음과 같이 작성할 수 있습니다.
-
-* 깃 튜토리얼
-  * 깃 Clone
-  * 깃 Pull
-  * 깃 Commit
-    * 깃 Commit 1)
-    * 깃 Commit 2)
-
-
-이름|영어|정보|수학
----|---|---|---|
-나동빈|98점|87점|100점|![Uploading image.png…]()
-
-홍길동|97점|78점|93점|
-이순신|89점|93점|97점|
+## 주요 기능
+![image](https://user-images.githubusercontent.com/77003178/212583610-f0417861-051f-4525-9b65-5d243a9d3e5a.png)
+1.	로그인한 유저 등급 식별
+2.	암호 변경 시 기존 암호 대조 기능
+3.	관리자 계정 접속 시 사원 등록 및 삭제 기능
+4.	이미지파일(증명사진) blob 형태로 DB에 저장
+5.	본인 수정 가능 범위 및 관리자 수정 가능 범위 지정
